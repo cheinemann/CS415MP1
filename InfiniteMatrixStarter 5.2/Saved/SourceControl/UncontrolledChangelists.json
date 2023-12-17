@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/Projectile.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/MI_Healthpack.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/MI_enemy.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Materials/MI_Projectile.uasset",
+				"/Users/Colleen/Documents/CS 415/MPs/MP1/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/Health_cube.uasset"
+			]
+		}
+	]
+}
